@@ -1,3 +1,13 @@
+**TAKS COMPLETED**
+
+*Bootstrap* and *Lodash.debounce* is being used for swift developement.
+Since it was very small app I didn't find any need to add Redux so I've used plain ContextAPI for state management.
+let me know if you have any issues, would love your feedback.
+
+Thanks
+_______________________________________________________________________________________________________________________
+
+
 We are on a mission to make the process of buying and selling easier and more convenient - and with your help, it will be possible. But before we work together, we would like to assess your programming abilities.
 
 Please find the small assignment below, that we would like for you to complete in the allotted time. (If you are reading this, the clock is already ticking).
